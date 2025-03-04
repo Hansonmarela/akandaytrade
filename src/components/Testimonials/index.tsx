@@ -38,7 +38,7 @@ const Testimonials = () => {
       <div className="container">
         <SectionTitle
           title="What Our Users Says"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          paragraph="Our traders love AkandayTrade for its accuracy, speed, and ease of use. See how our platform is helping them navigate the Forex market with confidence."
           center
         />
 

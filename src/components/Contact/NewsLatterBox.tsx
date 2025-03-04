@@ -11,8 +11,7 @@ const NewsLatterBox = () => {
         Subscribe to receive future updates
       </h3>
       <p className="mb-11 border-b border-body-color border-opacity-25 pb-11 text-base leading-relaxed text-body-color dark:border-white dark:border-opacity-25">
-        Lorem ipsum dolor sited Sed ullam corper consectur adipiscing Mae ornare
-        massa quis lectus.
+      Stay ahead in Forex trading! Subscribe to AkandayTrade for market insights, trading tips, and platform updates straight to your inbox.
       </p>
       <div>
         <input

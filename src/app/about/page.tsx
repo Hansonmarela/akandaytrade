@@ -15,7 +15,7 @@ const AboutPage = () => {
     <>
       <Breadcrumb
         pageName="About Page"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
+        description="AkandayTrade is your gateway to smarter Forex trading. We provide real-time market data, AI-driven insights, and powerful trading tools to help traders make informed decisions. Whether you're a beginner or an experienced trader, our platform offers seamless execution, risk management features, and educational resources to enhance your trading journey."
       />
       <AboutSectionOne />
       <AboutSectionTwo />
